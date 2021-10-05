@@ -1,5 +1,5 @@
 ============== Create Ubuntu Ec2 =====================
-Create from Ec2, choose latest cersion of Ubuntu available
+Create from Ec2, choose latest version of Ubuntu available
 Open ports in SG: 22, 80, 443, 8883, 1883
 
 ============== Configure DNS =====================
