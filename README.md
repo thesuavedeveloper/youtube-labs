@@ -1,2 +1,2 @@
 # youtube-labs
-All code and tutorial files created fir my YouTube channel
+All code and tutorial files created for my YouTube channel
