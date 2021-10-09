@@ -1,4 +1,8 @@
+# Correct Password
+
 $ aws iot test-invoke-authorizer --authorizer-name CustomAuth_up --mqtt-context username=the_suave_developer,password=c2VjcmV0X3Bhc3N3b3Jk,clientId=test_client 
+
+# Incorrect Password
 
 $ aws iot test-invoke-authorizer --authorizer-name CustomAuth_up --mqtt-context username=the_suave_developer,password=Ym9yaW5nX3Bhc3dvcmQ=,clientId=test_client
 
