@@ -21,7 +21,7 @@ topic="thesuavedeveloper/test"
 aws_iot_endpoint = "a27icbrpsue2fo-ats.iot.ap-south-1.amazonaws.com"
 url = "https://{}".format(aws_iot_endpoint)
 alpn_protocol_name_cust_auth = "mqtt" ##
-custom_auth_name = "enahced_auth_test_1" ##
+custom_auth_name = "CustomAuth_up" ##
 useridParams= "{}?x-amz-customauthorizer-name={}".format(username,custom_auth_name)
 cafile="AmazonRootCA1.cer"
 port=443
