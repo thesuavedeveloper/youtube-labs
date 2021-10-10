@@ -18,7 +18,7 @@ topic="thesuavedeveloper/test"
 # port=8883
 
 ### Parameters added/altered for AWS IoT Enhanced Auth
-aws_iot_endpoint = "a27icbrpsue2fo-ats.iot.ap-south-1.amazonaws.com"
+aws_iot_endpoint = "xxxxx-ats.iot.ap-south-1.amazonaws.com"
 url = "https://{}".format(aws_iot_endpoint)
 alpn_protocol_name_cust_auth = "mqtt" ##
 custom_auth_name = "CustomAuth_up" ##
